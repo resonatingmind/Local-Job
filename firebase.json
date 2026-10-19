@@ -11,5 +11,12 @@
         "*.local"
       ]
     }
-  ]
+  ],
+  "hosting": {
+    "public": "website",
+    "ignore": [
+      "firebase.json",
+      "**/.*"
+    ]
+  }
 }

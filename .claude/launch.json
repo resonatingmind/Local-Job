@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "website",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\Users\\adity\\AppData\\Local\\Temp\\claude\\C--Work-Smart-Class-Job-App-local-work\\1bbf1690-8369-42ef-a700-f3761eeeef92\\scratchpad\\serve.js", "C:\\Work\\Smart Class\\Job App\\local_work\\website"],
+      "port": 5500
+    }
+  ]
+}
